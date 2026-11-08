@@ -1,17 +1,16 @@
-# Herdr Theme Studio: demo themes
+# Abyssal Bloom (demo)
 
-Two themes published for [Theme Studio](https://github.com/agentic-tool-labs/herdr-theme-studio), the
-[Herdr](https://herdr.dev) app's theme editor. They exist to test importing from GitHub.
+A theme published for [Theme Studio](https://github.com/agentic-tool-labs/herdr-theme-studio), the
+[Herdr](https://herdr.dev) app's theme editor. It exists to test importing from GitHub.
 
 - **abyssal-bloom-demo**: deep-sea teal over art from *Abyssal Bloom: Ocean Drift*. A branded theme,
   with App Store, Google Play and Mac App Store links.
-- **emerald-frost-demo**: navy glass over five glows of cyan, teal and emerald.
 
 ## Using them
 
 In Theme Studio, open **Import** and either click **Browse themes** (this repo carries the topic
-`herdr-mod-theme-studio`) or paste a link to this repo or to one of the `.json` files into the
-GitHub field. Each brings its whole look: colors, glass, fonts, cursor and agents list.
+`herdr-mod-theme-studio`) or paste a link to this repo or to its `.json` file into the
+GitHub field. It brings its whole look: colors, glass, fonts, cursor and agents list.
 
 ## Publishing your own
 
